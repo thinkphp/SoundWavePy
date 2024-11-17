@@ -2,7 +2,7 @@
 
 A modern, feature-rich MP3 player built with PyQt5 and Pygame. This application provides a clean, user-friendly interface for playing and managing your music files.
 
-![Player Screenshot](placeholder-image.png)
+![]()
 
 ## Features
 
